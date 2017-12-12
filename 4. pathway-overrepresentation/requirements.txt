@@ -1,0 +1,7 @@
+numpy
+matplotlib
+ipython
+jupyter
+pandas
+sklearn
+kg

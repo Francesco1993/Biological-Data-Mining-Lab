@@ -1,0 +1,5 @@
+pandas
+BeautifulSoup
+requests
+kg
+numpy

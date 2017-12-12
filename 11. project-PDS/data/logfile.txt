@@ -1,0 +1,12 @@
+robust_score_bydist. min_exp= -0.1911145 , min_std= 0.1272566 
+pathway  1 > sig: 0.1540966 
+pathway  1  k= 13 ( 13 ) wj= 1 >new sig: 0.118611 | accepted!
+pathway  1  k= 12 ( 12 ) wj= 1 >new sig: 0.1082886 | accepted!
+pathway  1  k= 11 ( 11 ) wj= 2 >new sig: 0.0991569 | accepted!
+pathway  1  k= 10 ( 10 ) wj= 1 >new sig: 0.01467846 | accepted!
+pathway  2 > sig: 0.07712 
+pathway  2  k= 8 ( 8 ) wj= 3 >new sig: 0.02529056 | accepted!
+pathway  3 > sig: 0.1113312 
+pathway  3  k= 8 ( 8 ) wj= 3 >new sig: 0.01444995 | accepted!
+pathway  4 > sig: 0.1907757 
+4 pathways processed with start= by ranks 
